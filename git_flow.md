@@ -48,6 +48,9 @@ Examples:
   refactor/DATIO5-1235_remove-old-configuration
 ```
 
+![Description of flow](imgs/branch_flow.png)
+
+
 ## Commit messages
 
 It's a good practice to format commit messages as follows:
@@ -101,3 +104,6 @@ Once a release is tested and stable it must be merged to master and tagged with 
 Example: v1.0.3
 
 
+## Resume of commands between branches
+
+![Example of Commands](imgs/git-workflow-commands.png)
