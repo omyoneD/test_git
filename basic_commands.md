@@ -1,6 +1,6 @@
 # Basic git commands
 
-![commands flow](imgs/git commands.png)
+![commands flow](imgs/git_commands.png)
 
 
 ## Basic commands
