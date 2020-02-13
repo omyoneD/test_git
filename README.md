@@ -1,3 +1,10 @@
-Pues esto es una prueba de codigo para el git
+On this repo you could find an small example of git commands and git branches best practices.
 
-Y ya esta!!!
+[Basic commands](basic_commands.md)
+[branches flow](git_flow.md)
+
+
+Also, you could get 2 code cheat sheets
+
+[Code Cheat Sheet 1](imgs/github-git-cheat-sheet_es_0000.jpg)
+[Code Cheat Sheet 2](imgs/github-git-cheat-sheet_es_0001.jpg)
